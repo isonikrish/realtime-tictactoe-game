@@ -4,3 +4,9 @@ body{
     color: white;
     font-family: "Happy Monkey", system-ui;
 }
+.highlight {
+    background-color: #fc5671;  /* Change the background color */
+    /* You can also add additional styling, like a line */
+    border: 2px solid gold;
+    /* Or even add a visual line overlay if you want */
+  }
